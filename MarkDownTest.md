@@ -24,7 +24,7 @@ Lets write some code.
 Lets make a table of the same info.
 This is done with "---" for lines, and | for collumns.
 |Name|Arms|Octopus/Squid|
-|------|------------|--------------|
+|------|-----------:|--------------|
 |Octavius|8| Octopus					|
 |Simon	|	12	| Squid								|
 |Ozzy	|		8		| Octopus								|
@@ -38,3 +38,11 @@ The structure is \!\[imagename\]\(PictureURL\)
 
 Github also has a separate flavor, displaying this as a proper checkbox:
 [x]
+```
+
+
+enter code here
+
+enter code here
+
+```
